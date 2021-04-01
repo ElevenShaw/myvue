@@ -1,6 +1,6 @@
 # y
 
-> helloworld
+> MyVue_app
 
 ## Build Setup
 
